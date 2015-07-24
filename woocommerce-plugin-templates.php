@@ -129,5 +129,5 @@ function wcpt_template_loader( $template ) {
 
 }
 // add_filter( 'template_include', 'wcpt_template_loader' );
-
+// Commented out as this can screw things up a bit, uncomment if you want to override template files.
 
